@@ -13,3 +13,14 @@ public class TestDataParser {
         }
     }
 }
+
+/*program return:
+START**
+
+name/hanji/sex/male/age/19/
+His sex is male
+His name is hanji
+His age is 19
+
+END**
+*/
